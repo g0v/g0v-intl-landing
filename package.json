@@ -13,8 +13,8 @@
     "npm": ">=1.2.2"
   },
   "scripts": {
-    "start": "node_modules/.bin/lsc server.ls",
-    "restart": "node_modules\\.bin\\lsc server.ls",
+    "start": "lsc server.ls",
+    "restart": "lsc server.ls",
     "prepare": "npm install chokidar@1.7.0"
   },
   "dependencies": {
