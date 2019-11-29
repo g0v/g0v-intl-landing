@@ -1,7 +1,7 @@
 # g0v-intl-landing 
 
 g0v intl landing 
-文字內容：CC-BY g0v intl
+文字內容：CC-BY g0v intl，
 程式碼 CC 0
 
 
